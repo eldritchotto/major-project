@@ -8,12 +8,14 @@ my major project is going to be a minor little platforming game, which i've lovi
  
  ##needs to have:
  - working platforms
- - multiple areas
- - scrolls to collect (duh)
- - more complicated backgrounds
+ - scrolls to collect 
+ 
  
  ##nice to have:
  - accurate gravity
  - sidescrolling mechanic
  - npcs to talk to
  - maps/inventory
+  - multiple areas
+  - more complicated backgrounds
+  
